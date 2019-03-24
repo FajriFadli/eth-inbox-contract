@@ -1,12 +1,12 @@
 {
   "name": "inbox",
   "version": "1.0.0",
-  "description": "",
+  "description": "A smart contract used for storing and calling messages to/from Ethereum blockchain",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "author": "Fajri Fadli",
   "license": "ISC",
   "dependencies": {
     "ganache-cli": "^6.4.1",
